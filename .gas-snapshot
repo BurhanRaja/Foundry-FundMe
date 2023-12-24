@@ -1,0 +1,8 @@
+FundMeTest:testCheaperWithdrawWithMultipleUserFund() (gas: 486592)
+FundMeTest:testContractOwner() (gas: 9241)
+FundMeTest:testFundingByUser() (gas: 99931)
+FundMeTest:testMinimumDollarIsFour() (gas: 9104)
+FundMeTest:testUserAddedToFundersArray() (gas: 100040)
+FundMeTest:testWithdrawFundRevert() (gas: 99778)
+FundMeTest:testWithdrawWithMultipleUserFund() (gas: 487600)
+FundMeTest:testWithdrawWithSingleUserFund() (gas: 85165)
