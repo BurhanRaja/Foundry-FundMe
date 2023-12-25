@@ -3,8 +3,8 @@
 pragma solidity ^0.8.18;
 
 import {Test, console} from "forge-std/Test.sol";
-import {DeployFundMe} from "../script/DeployFundMe.s.sol";
-import {FundMe} from "../src/FundMe.sol";
+import {DeployFundMe} from "../../script/DeployFundMe.s.sol";
+import {FundMe} from "../../src/FundMe.sol";
 
 // forge test -vv (console's the two console log)
 // forge script script/... --fork-url SEPOLIA_RPC_URL (It will create an evironment like sepolia but not on actual testnet)
